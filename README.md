@@ -4,4 +4,4 @@
 
 <h4>GPT-3 is a </h4>
 
- <a href='https://github.com/lucas1337dev/GPT-3/blob/main/dist/index.html' target='_blank'>Live Project</a>
+ <a href='https://github.com/lucas1337dev/GPT-3/' target='_blank'>Live Project</a>
