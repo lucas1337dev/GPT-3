@@ -10,6 +10,6 @@
  <img src='https://logospng.org/download/css-3/logo-css-3-1536.png' alt='CSS3' width='50' />
 </p>
 
-<p>GPT-3 is an OpenAI landing page developed with <b>Vite</b> and <b>React</b></p>
+<p>GPT-3 is an OpenAI landing page developed with <b>React</b></p>
 
  <a href='https://lucas1337dev.github.io/GPT-3/' target="_blank">Live Project</a>
