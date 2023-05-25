@@ -2,4 +2,4 @@
 
 <img src='https://github.com/lucas1337dev/GPT-3/blob/main/GPT-3.png' alt='project img' />
 
-<h3>GPT-3 is a </h3>
+<p>GPT-3 is a </p>
