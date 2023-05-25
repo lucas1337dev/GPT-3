@@ -10,9 +10,7 @@ lerna-debug.log*
 node_modules
 dist-ssr
 *.local
-.package-lock.json
-.package.json
-vite.config.js
+
 
 
 # Editor directories and files
@@ -25,3 +23,6 @@ vite.config.js
 *.njsproj
 *.sln
 *.sw?
+*.package-lock.json
+*.package.json
+*vite.config.js
