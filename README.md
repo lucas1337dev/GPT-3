@@ -4,7 +4,7 @@
 
 <p>GPT-3 is an OpenAI landing page developed with <b>React</b>.</p>
 
-<a href='https://lucas1337dev.github.io/GPT-3/' target="_blank">Live Project</a>
+<a href='https://lucas1337dev.github.io/GPT-3/'>Live Project</a>
 
 <h2>Technologies:</h2>
 <p>
